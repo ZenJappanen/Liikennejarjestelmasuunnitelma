@@ -89,3 +89,32 @@
 .imageContainer {
   min-height: "200px";
 }
+
+table,
+td,
+th {
+  border: 1px solid #ddd;
+  text-align: left;
+}
+
+table {
+  border-collapse: collapse;
+  width: 100%;
+}
+
+th,
+td {
+  padding: 15px;
+}
+
+.cellBackgroundGrey {
+  background-color: darkgrey;
+}
+
+.cellBackgroundGreen {
+  background-color: green;
+}
+
+.cellBackgroundRed {
+  background-color: pink;
+}
