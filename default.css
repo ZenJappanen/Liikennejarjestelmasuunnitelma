@@ -72,7 +72,7 @@
 }
 
 .presentationtext {
-  text-align: left;
+    text-align: left;
 }
 
 .bulletedListPartners {
@@ -80,10 +80,17 @@
 }
 
 .cardTeaserImg {
-  text-align: center;
-  margin: auto;
-  width: "100vh";
-  height: "200px";
+    margin-top: auto;
+    margin-right: auto;
+    margin-left: auto;
+    margin-bottom: auto;
+
+
+
+    width: 0vh
+";
+    height: 0px
+";
 }
 
 .imageContainer {
